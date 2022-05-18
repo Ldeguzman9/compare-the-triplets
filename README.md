@@ -1,4 +1,4 @@
-# compre-the-triplets
+# compare-the-triplets
 HackerRank - Compare the Triplets
 
 # Problem
